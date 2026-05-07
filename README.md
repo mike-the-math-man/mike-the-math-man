@@ -15,17 +15,19 @@ I'm a postgraduate student in Risk Management and an athletics enthusiast based 
 * **Data Modeling:** Developing relational database schemas and automated reporting via Power BI.
 * **Home Lab:** Managing a local environment for technical development and performance tracking.
 
+### 📚 Education & Certifications
+
+* **Postgraduate Diploma in Risk Management:** Milpark Education
+* **BSc Mathematics:** University of Pretoria
+* **RE1**
+* **PGCE:** Stadio
+* **Technical Training:** Programming foundations via Boot.dev
+
 ### 🏃 Performance & Athletics
 
 * **Club:** Phobians Athletics Club
 * **Events:** Weekly parkrun (Hazeldean Farm / Pretoria Botanical Garden)
-* **Upcoming:** Oxpecker Trail Run (July 2026)
 * **Gear:** Tracking via Garmin Forerunner and Strava
-
-### 📚 Education & Certifications
-
-* **Postgraduate Diploma in Risk Management:** Milpark Education
-* **Technical Training:** Programming foundations via Boot.dev
 
 ### 🎮 Interests
 
